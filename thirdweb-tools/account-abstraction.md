@@ -1,13 +1,13 @@
 # Account Abstraction
 
-[thirdweb ](https://portal.thirdweb.com/connect/account-abstraction/overview?utm_source=lens&utm_medium=docs)offers a complete platform to leverage account abstraction.
+thirdweb offers a complete platform to leverage [account abstraction](https://portal.thirdweb.com/connect/account-abstraction/overview?utm_source=lens&utm_medium=docs).
 
-Remove the clunky user experience of requiring gas & signatures for every onchain action.
+Improve your app's user experience by unlocking gasless & signless transactions.
 
-* Abstract away gas
-* Pre-audited account factory contracts
-* Built-in infra:
-* Sponsorship policies
+* Abstract away gas from your users with gas sponsorship
+* pre-audited account factory contracts
+* Acess built-in infra
+* Unlock simple sponsorship policies
 
 ## Get Started
 
